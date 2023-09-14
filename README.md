@@ -1,4 +1,4 @@
-# Enhancing the Prediction of Bankruptcy Using Machine Learning Algorithms
+# Machine Learning Based Efficient Bankruptcy Prediction Model
 ### Enhancing the Prediction of Bankruptcy Using Machine Learning Algorithms is a project that aims to improve the accuracy and reliability of bankruptcy prediction models through the utilization of various machine learning techniques. By employing advanced algorithms, this project seeks to assist financial analysts and institutions in making more informed decisions about the creditworthiness of businesses.
 
 ## Introduction
